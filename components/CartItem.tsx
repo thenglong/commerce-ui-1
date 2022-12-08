@@ -75,9 +75,9 @@ function CartItem({
           {hasVariants && (
             <p>
               {(selected_options as any[]).map(({ option_name }, index) => (
-                <React.Fragment key={index}>
+                <div key={index}>
                   {index ? `, ${option_name}` : option_name}
-                </React.Fragment>
+                </div>
               ))}
             </p>
           )}

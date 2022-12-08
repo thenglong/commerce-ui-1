@@ -22,26 +22,29 @@ const toastOptions = {
   toastClassName: "bg-ecru-white rounded-lg text-black px-3 shadow-md",
 };
 
-function MyApp({ children }: { children: React.ReactNode }) {
+function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <>
-      <ThemeProvider>
-        <ModalProvider>
-          <CartProvider>
-            <CheckoutProvider>
-              <Modal />
-              <Layout>
-                <AnimatePresence initial={false} mode="wait">
-                  {children}
-                </AnimatePresence>
-                <ToastContainer {...(toastOptions as any)} />
-              </Layout>
-            </CheckoutProvider>
-          </CartProvider>
-        </ModalProvider>
-      </ThemeProvider>
-    </>
+    <html lang="en">
+      <head />
+      <body>
+        <ThemeProvider>
+          <ModalProvider>
+            <CartProvider>
+              <CheckoutProvider>
+                <Modal />
+                <Layout>
+                  <AnimatePresence initial={false} mode="wait">
+                    {children}
+                  </AnimatePresence>
+                  <ToastContainer {...(toastOptions as any)} />
+                </Layout>
+              </CheckoutProvider>
+            </CartProvider>
+          </ModalProvider>
+        </ThemeProvider>
+      </body>
+    </html>
   );
 }
 
-export default MyApp;
+export default RootLayout;

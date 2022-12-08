@@ -1,7 +1,8 @@
 import Image from "next/image";
 
 function ProductImages({ images = [] }) {
-  if (!images || images.length === 0) return <div></div>;
+    if (!images || images.length === 0) return <div></div>;
+
 
   return (
     <>

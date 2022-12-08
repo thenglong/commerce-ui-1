@@ -40,7 +40,9 @@ export default async function Page({ params }: any) {
     meta,
     related_products: relatedProducts,
   } = product;
-  const images = assets.filter(({ is_image }: any) => is_image);
+
+  let images = assets.filter(({ is_image }: any) => is_image) as any[];
+  images = images.slice(0, 1);
   //   const setTheme = useThemeDispatch();
   //   const { openModal } = useModalDispatch();
 
@@ -91,7 +93,7 @@ export default async function Page({ params }: any) {
   };
 
   return (
-    <Fragment>
+    <div>
       <Head>
         <title>{product.seo.title}</title>
         <meta name="description" content={product.seo.description}></meta>
@@ -124,6 +126,6 @@ export default async function Page({ params }: any) {
       <div className="py-3 md:py-4 lg:py-8">
         <RelatedProducts products={relatedProducts} />
       </div>
-    </Fragment>
+    </div>
   );
 }
