@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "prod_7ZAMo1eDvoNJ4x",
+    "created": 1604438951,
+    "updated": 1611611832,
+    "active": true,
+    "permalink": "walnut-cooks-tools-chopchop-shop",
+    "name": "Walnut Cook's Tools",
+    "description": "<p>Carved by our friends at Mason St. Workshop, these cook’s tools are made to last. We went back and forth for months deliberating on woods, handles and the exact tools to include before landing on the current set of five which includes a spatula, three different spoons and a large ladle.</p>",
+    "price": {
+      "raw": 40,
+      "formatted": "40.00",
+      "formatted_with_symbol": "$40.00",
+      "formatted_with_code": "40.00 USD"
+    },
+    "inventory": {
+      "managed": false,
+      "available": 0
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": "Walnut Cook's Tools | ChopChop",
+      "description": "Carved by our friends at Mason St. Workshop, these cook’s tools are made to last. A set of five which includes a spatula, three different spoons and a large ladle."
+    },
+    "thank_you_url": null,
+    "meta": {
+      "attributes": [
+        "5-fine-pieces.svg",
+        "clean-easily.svg",
+        "hand-carved-walnut.svg",
+        "made-in-new-york.svg",
+        "quality-scoops.svg",
+        "tappered-grip.svg"
+      ]
+    },
+    "conditionals": {
+      "is_active": true,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_inventory_managed": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": true,
+      "has_images": true,
+      "collects_fullname": true,
+      "collects_shipping_address": true,
+      "collects_billing_address": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "is_free": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "inventory_managed": false,
+      "sold_out": false,
+      "free": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": true,
+      "images": true
+    },
+    "collects": {
+      "fullname": true,
+      "shipping_address": true,
+      "billing_address": true,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/walnut-cooks-tools-chopchop-shop?checkout=true",
+      "display": "https://checkout.chec.io/walnut-cooks-tools-chopchop-shop"
+    },
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+      "asset_id": "ast_kpnNwAWX95mXB3"
+    },
+    "categories": [
+      {
+        "id": "cat_L1vOoZDzWlRa8Z",
+        "slug": "cookware",
+        "name": "Cookware"
+      }
+    ],
+    "image": {
+      "id": "ast_kpnNwAWX95mXB3",
+      "url": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+      "description": null,
+      "is_image": true,
+      "filename": "photo-1594761077961-cadd185540a4%201.jpg",
+      "file_size": 1863212,
+      "file_extension": "jpg",
+      "image_dimensions": {
+        "width": 1250,
+        "height": 1874
+      },
+      "meta": [],
+      "created_at": 1604438887,
+      "updated_at": 1605918804
+    },
+    "variant_groups": [],
+    "assets": [
+      {
+        "id": "ast_kpnNwAWX95mXB3",
+        "url": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "photo-1594761077961-cadd185540a4%201.jpg",
+        "file_size": 1863212,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1874
+        },
+        "meta": [],
+        "created_at": 1604438887,
+        "updated_at": 1605918804
+      },
+      {
+        "id": "ast_kpnNwAWX95mXB3",
+        "url": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "photo-1594761077961-cadd185540a4%201.jpg",
+        "file_size": 1863212,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1874
+        },
+        "meta": [],
+        "created_at": 1604438887,
+        "updated_at": 1605918804
+      }
+    ],
+    "attributes": [],
+    "related_products": [
+      {
+        "id": "prod_r2LM5Q8baoZV1g",
+        "name": "Private Cooking Class",
+        "sku": null,
+        "permalink": "private-cooking-class-chopchop-shop",
+        "description": "<p>Learn core skills or advanced techniques in our private cooking classes. Classes run two hours (online or in person at our Brooklyn storefront) and cover a range of recipes, approaches and techniques. Tell us what you want to tackle or learn a classic recipe. Just let us know in the form at checkout.</p>",
+        "price": {
+          "raw": 120,
+          "formatted": "120.00",
+          "formatted_with_symbol": "$120.00",
+          "formatted_with_code": "120.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+          "asset_id": "ast_p6dP5g3zM5n7kA"
+        },
+        "image": {
+          "id": "ast_p6dP5g3zM5n7kA",
+          "url": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "emy-kOtEYRJspm8-unsplash.jpg",
+          "file_size": 2271702,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 5184,
+            "height": 3456
+          },
+          "meta": [],
+          "created_at": 1605912098,
+          "updated_at": 1605916895
+        }
+      },
+      {
+        "id": "prod_NXELwj0Nm53A4p",
+        "name": "Essential Knife Set",
+        "sku": null,
+        "permalink": "essential-knife-set-chopchop-shop",
+        "description": "<p>There are a lot of knife sets out there, a lot of them are fine, but they also have a bunch of stuff you probably don’t need. We put together the essential knife set so you can snag exactly what you need to get cooking, no more no less. If you want a slightly different variation just get in touch and let us know, we’re happy to put something custom together for your needs.</p>",
+        "price": {
+          "raw": 120,
+          "formatted": "120.00",
+          "formatted_with_symbol": "$120.00",
+          "formatted_with_code": "120.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+          "asset_id": "ast_A12JwrELMlPjnk"
+        },
+        "image": {
+          "id": "ast_A12JwrELMlPjnk",
+          "url": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "italic--wPo52T1z-8-unsplash 1.png",
+          "file_size": 1992899,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1665
+          },
+          "meta": [],
+          "created_at": 1604439215,
+          "updated_at": 1605918801
+        }
+      },
+      {
+        "id": "prod_L1vOoZqkMwRa8Z",
+        "name": "Ceramic Dutch Oven",
+        "sku": null,
+        "permalink": "ceramic-dutch-oven-chopchop-shop",
+        "description": "<p></p><p>A colorful, stovetop multi-tool that will outlive you with even the most minimal amount of care, the ceramic coated, cast iron dutch oven is the Coach duffle of stovetop cooking - gorgeous, functional and the envy of literally every penny pinching home cook alive today.</p>",
+        "price": {
+          "raw": 250,
+          "formatted": "250.00",
+          "formatted_with_symbol": "$250.00",
+          "formatted_with_code": "250.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+          "asset_id": "ast_8XO3wpWNkAlYAz"
+        },
+        "image": {
+          "id": "ast_8XO3wpWNkAlYAz",
+          "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+          "description": null,
+          "is_image": true,
+          "filename": "green.jpeg",
+          "file_size": 1309292,
+          "file_extension": "jpeg",
+          "image_dimensions": {
+            "width": 2250,
+            "height": 3000
+          },
+          "meta": [],
+          "created_at": 1617732200,
+          "updated_at": 1617732203
+        }
+      },
+      {
+        "id": "prod_0YnEoqLJNwe7P6",
+        "name": "Kitchen Sink Journal",
+        "sku": null,
+        "permalink": "kitchen-sink-journal-chopchop-shop",
+        "description": "<p>Kitchen Sink Journal, our first publication, documents a year of culinary experiments by the Chop Chop team and some friends of the shop. While it includes 41 detailed recipes, in practice we use it more as a reference on how to tackle a given flavor, texture or ingredient. Hopefully you’ll find it just as useful!</p>",
+        "price": {
+          "raw": 35,
+          "formatted": "35.00",
+          "formatted_with_symbol": "$35.00",
+          "formatted_with_code": "35.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+          "asset_id": "ast_4WJvlKWG9lbYV1"
+        },
+        "image": {
+          "id": "ast_4WJvlKWG9lbYV1",
+          "url": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "Kitchen Sink Journal 1.jpg",
+          "file_size": 602019,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1689
+          },
+          "meta": [],
+          "created_at": 1604439354,
+          "updated_at": 1605918798
+        }
+      }
+    ],
+    "extrafields": []
+  },
+  {
+    "id": "prod_r2LM5Q8baoZV1g",
+    "created": 1604439116,
+    "updated": 1615428169,
+    "active": true,
+    "permalink": "private-cooking-class-chopchop-shop",
+    "name": "Private Cooking Class",
+    "description": "<p>Learn core skills or advanced techniques in our private cooking classes. Classes run two hours (online or in person at our Brooklyn storefront) and cover a range of recipes, approaches and techniques. Tell us what you want to tackle or learn a classic recipe. Just let us know in the form at checkout.</p>",
+    "price": {
+      "raw": 120,
+      "formatted": "120.00",
+      "formatted_with_symbol": "$120.00",
+      "formatted_with_code": "120.00 USD"
+    },
+    "inventory": {
+      "managed": false,
+      "available": 0
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": "Private Cooking Class | ChopChop",
+      "description": "Learn core skills or advanced techniques in our private cooking classes. Classes run two hours (online or in person at our Brooklyn storefront) and cover a range of recipes, approaches and techniques."
+    },
+    "thank_you_url": null,
+    "meta": {
+      "attributes": [
+        "2-lovely-hours.svg",
+        "actual-magick.svg",
+        "hot-tips.svg",
+        "learn-knife-skills.svg",
+        "stop-crying-over-onions.svg",
+        "url-or-irl.svg"
+      ]
+    },
+    "conditionals": {
+      "is_active": true,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_inventory_managed": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": false,
+      "has_images": true,
+      "collects_fullname": true,
+      "collects_shipping_address": false,
+      "collects_billing_address": false,
+      "has_video": false,
+      "has_rich_embed": false,
+      "is_free": false,
+      "collects_extrafields": true
+    },
+    "is": {
+      "active": true,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "inventory_managed": false,
+      "sold_out": false,
+      "free": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": false,
+      "images": true
+    },
+    "collects": {
+      "fullname": true,
+      "shipping_address": false,
+      "billing_address": false,
+      "extrafields": true
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/private-cooking-class-chopchop-shop?checkout=true",
+      "display": "https://checkout.chec.io/private-cooking-class-chopchop-shop"
+    },
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+      "asset_id": "ast_p6dP5g3zM5n7kA"
+    },
+    "categories": [
+      {
+        "id": "cat_0YnEoqPn6we7P6",
+        "slug": "cooking-class",
+        "name": "Cooking Class"
+      }
+    ],
+    "image": {
+      "id": "ast_p6dP5g3zM5n7kA",
+      "url": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+      "description": null,
+      "is_image": true,
+      "filename": "emy-kOtEYRJspm8-unsplash.jpg",
+      "file_size": 2271702,
+      "file_extension": "jpg",
+      "image_dimensions": {
+        "width": 5184,
+        "height": 3456
+      },
+      "meta": [],
+      "created_at": 1605912098,
+      "updated_at": 1605916895
+    },
+    "variant_groups": [
+      {
+        "id": "vgrp_kd6Ll2JYYlV2mj",
+        "name": "Courses",
+        "meta": null,
+        "created": 1615428169,
+        "updated": 1615428169,
+        "options": [
+          {
+            "id": "optn_A12JwrK0voPjnk",
+            "name": "Two courses",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 USD"
+            },
+            "assets": [],
+            "meta": null,
+            "created": 1615428169,
+            "updated": 1615428169,
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_Op1YoV4GMlXLv9",
+            "name": "Three courses",
+            "price": {
+              "raw": 0,
+              "formatted": "0.00",
+              "formatted_with_symbol": "$0.00",
+              "formatted_with_code": "0.00 USD"
+            },
+            "assets": [],
+            "meta": null,
+            "created": 1615428169,
+            "updated": 1615428169,
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "assets": [
+      {
+        "id": "ast_p6dP5g3zM5n7kA",
+        "url": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "emy-kOtEYRJspm8-unsplash.jpg",
+        "file_size": 2271702,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 5184,
+          "height": 3456
+        },
+        "meta": [],
+        "created_at": 1605912098,
+        "updated_at": 1605916895
+      }
+    ],
+    "attributes": [],
+    "related_products": [
+      {
+        "id": "prod_7ZAMo1eDvoNJ4x",
+        "name": "Walnut Cook's Tools",
+        "sku": null,
+        "permalink": "walnut-cooks-tools-chopchop-shop",
+        "description": "<p>Carved by our friends at Mason St. Workshop, these cook’s tools are made to last. We went back and forth for months deliberating on woods, handles and the exact tools to include before landing on the current set of five which includes a spatula, three different spoons and a large ladle.</p>",
+        "price": {
+          "raw": 40,
+          "formatted": "40.00",
+          "formatted_with_symbol": "$40.00",
+          "formatted_with_code": "40.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+          "asset_id": "ast_kpnNwAWX95mXB3"
+        },
+        "image": {
+          "id": "ast_kpnNwAWX95mXB3",
+          "url": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "photo-1594761077961-cadd185540a4%201.jpg",
+          "file_size": 1863212,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1874
+          },
+          "meta": [],
+          "created_at": 1604438887,
+          "updated_at": 1605918804
+        }
+      },
+      {
+        "id": "prod_NXELwj0Nm53A4p",
+        "name": "Essential Knife Set",
+        "sku": null,
+        "permalink": "essential-knife-set-chopchop-shop",
+        "description": "<p>There are a lot of knife sets out there, a lot of them are fine, but they also have a bunch of stuff you probably don’t need. We put together the essential knife set so you can snag exactly what you need to get cooking, no more no less. If you want a slightly different variation just get in touch and let us know, we’re happy to put something custom together for your needs.</p>",
+        "price": {
+          "raw": 120,
+          "formatted": "120.00",
+          "formatted_with_symbol": "$120.00",
+          "formatted_with_code": "120.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+          "asset_id": "ast_A12JwrELMlPjnk"
+        },
+        "image": {
+          "id": "ast_A12JwrELMlPjnk",
+          "url": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "italic--wPo52T1z-8-unsplash 1.png",
+          "file_size": 1992899,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1665
+          },
+          "meta": [],
+          "created_at": 1604439215,
+          "updated_at": 1605918801
+        }
+      },
+      {
+        "id": "prod_L1vOoZqkMwRa8Z",
+        "name": "Ceramic Dutch Oven",
+        "sku": null,
+        "permalink": "ceramic-dutch-oven-chopchop-shop",
+        "description": "<p></p><p>A colorful, stovetop multi-tool that will outlive you with even the most minimal amount of care, the ceramic coated, cast iron dutch oven is the Coach duffle of stovetop cooking - gorgeous, functional and the envy of literally every penny pinching home cook alive today.</p>",
+        "price": {
+          "raw": 250,
+          "formatted": "250.00",
+          "formatted_with_symbol": "$250.00",
+          "formatted_with_code": "250.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+          "asset_id": "ast_8XO3wpWNkAlYAz"
+        },
+        "image": {
+          "id": "ast_8XO3wpWNkAlYAz",
+          "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+          "description": null,
+          "is_image": true,
+          "filename": "green.jpeg",
+          "file_size": 1309292,
+          "file_extension": "jpeg",
+          "image_dimensions": {
+            "width": 2250,
+            "height": 3000
+          },
+          "meta": [],
+          "created_at": 1617732200,
+          "updated_at": 1617732203
+        }
+      },
+      {
+        "id": "prod_0YnEoqLJNwe7P6",
+        "name": "Kitchen Sink Journal",
+        "sku": null,
+        "permalink": "kitchen-sink-journal-chopchop-shop",
+        "description": "<p>Kitchen Sink Journal, our first publication, documents a year of culinary experiments by the Chop Chop team and some friends of the shop. While it includes 41 detailed recipes, in practice we use it more as a reference on how to tackle a given flavor, texture or ingredient. Hopefully you’ll find it just as useful!</p>",
+        "price": {
+          "raw": 35,
+          "formatted": "35.00",
+          "formatted_with_symbol": "$35.00",
+          "formatted_with_code": "35.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+          "asset_id": "ast_4WJvlKWG9lbYV1"
+        },
+        "image": {
+          "id": "ast_4WJvlKWG9lbYV1",
+          "url": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "Kitchen Sink Journal 1.jpg",
+          "file_size": 602019,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1689
+          },
+          "meta": [],
+          "created_at": 1604439354,
+          "updated_at": 1605918798
+        }
+      }
+    ],
+    "extrafields": [
+      {
+        "id": "extr_KE506yMOXgDwdg",
+        "name": "Lesson Plan",
+        "type": "text",
+        "required": false,
+        "options": null,
+        "meta": null,
+        "created": 1616007946,
+        "updated": 1616007946
+      }
+    ]
+  },
+  {
+    "id": "prod_NXELwj0Nm53A4p",
+    "created": 1604439199,
+    "updated": 1610538278,
+    "active": true,
+    "permalink": "essential-knife-set-chopchop-shop",
+    "name": "Essential Knife Set",
+    "description": "<p>There are a lot of knife sets out there, a lot of them are fine, but they also have a bunch of stuff you probably don’t need. We put together the essential knife set so you can snag exactly what you need to get cooking, no more no less. If you want a slightly different variation just get in touch and let us know, we’re happy to put something custom together for your needs.</p>",
+    "price": {
+      "raw": 120,
+      "formatted": "120.00",
+      "formatted_with_symbol": "$120.00",
+      "formatted_with_code": "120.00 USD"
+    },
+    "inventory": {
+      "managed": false,
+      "available": 0
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": "Essential Knife Set | ChopChop",
+      "description": "We put together the essential knife set so you can snag exactly what you need to get cooking, no more no less."
+    },
+    "thank_you_url": null,
+    "meta": {
+      "attributes": [
+        "6-piece-set.svg",
+        "an-actually-good-bread-knife.svg",
+        "high-carbon-steel.svg",
+        "made-in-germany.svg",
+        "magnetic-holder.svg",
+        "stain-resistant.svg"
+      ]
+    },
+    "conditionals": {
+      "is_active": true,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_inventory_managed": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": true,
+      "has_images": true,
+      "collects_fullname": true,
+      "collects_shipping_address": true,
+      "collects_billing_address": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "is_free": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "inventory_managed": false,
+      "sold_out": false,
+      "free": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": true,
+      "images": true
+    },
+    "collects": {
+      "fullname": true,
+      "shipping_address": true,
+      "billing_address": true,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/essential-knife-set-chopchop-shop?checkout=true",
+      "display": "https://checkout.chec.io/essential-knife-set-chopchop-shop"
+    },
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+      "asset_id": "ast_A12JwrELMlPjnk"
+    },
+    "categories": [
+      {
+        "id": "cat_L1vOoZDzWlRa8Z",
+        "slug": "cookware",
+        "name": "Cookware"
+      }
+    ],
+    "image": {
+      "id": "ast_A12JwrELMlPjnk",
+      "url": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+      "description": null,
+      "is_image": true,
+      "filename": "italic--wPo52T1z-8-unsplash 1.png",
+      "file_size": 1992899,
+      "file_extension": "jpg",
+      "image_dimensions": {
+        "width": 1250,
+        "height": 1665
+      },
+      "meta": [],
+      "created_at": 1604439215,
+      "updated_at": 1605918801
+    },
+    "variant_groups": [],
+    "assets": [
+      {
+        "id": "ast_A12JwrELMlPjnk",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic--wPo52T1z-8-unsplash 1.png",
+        "file_size": 1992899,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1665
+        },
+        "meta": [],
+        "created_at": 1604439215,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_bO6J5aDn8oEjpK",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-dGoB5OrHDS0-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-dGoB5OrHDS0-unsplash 1.jpg",
+        "file_size": 1540840,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1200,
+          "height": 900
+        },
+        "meta": [],
+        "created_at": 1604439215,
+        "updated_at": 1605918801
+      }
+    ],
+    "attributes": [],
+    "related_products": [
+      {
+        "id": "prod_7ZAMo1eDvoNJ4x",
+        "name": "Walnut Cook's Tools",
+        "sku": null,
+        "permalink": "walnut-cooks-tools-chopchop-shop",
+        "description": "<p>Carved by our friends at Mason St. Workshop, these cook’s tools are made to last. We went back and forth for months deliberating on woods, handles and the exact tools to include before landing on the current set of five which includes a spatula, three different spoons and a large ladle.</p>",
+        "price": {
+          "raw": 40,
+          "formatted": "40.00",
+          "formatted_with_symbol": "$40.00",
+          "formatted_with_code": "40.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+          "asset_id": "ast_kpnNwAWX95mXB3"
+        },
+        "image": {
+          "id": "ast_kpnNwAWX95mXB3",
+          "url": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "photo-1594761077961-cadd185540a4%201.jpg",
+          "file_size": 1863212,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1874
+          },
+          "meta": [],
+          "created_at": 1604438887,
+          "updated_at": 1605918804
+        }
+      },
+      {
+        "id": "prod_r2LM5Q8baoZV1g",
+        "name": "Private Cooking Class",
+        "sku": null,
+        "permalink": "private-cooking-class-chopchop-shop",
+        "description": "<p>Learn core skills or advanced techniques in our private cooking classes. Classes run two hours (online or in person at our Brooklyn storefront) and cover a range of recipes, approaches and techniques. Tell us what you want to tackle or learn a classic recipe. Just let us know in the form at checkout.</p>",
+        "price": {
+          "raw": 120,
+          "formatted": "120.00",
+          "formatted_with_symbol": "$120.00",
+          "formatted_with_code": "120.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+          "asset_id": "ast_p6dP5g3zM5n7kA"
+        },
+        "image": {
+          "id": "ast_p6dP5g3zM5n7kA",
+          "url": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "emy-kOtEYRJspm8-unsplash.jpg",
+          "file_size": 2271702,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 5184,
+            "height": 3456
+          },
+          "meta": [],
+          "created_at": 1605912098,
+          "updated_at": 1605916895
+        }
+      },
+      {
+        "id": "prod_L1vOoZqkMwRa8Z",
+        "name": "Ceramic Dutch Oven",
+        "sku": null,
+        "permalink": "ceramic-dutch-oven-chopchop-shop",
+        "description": "<p></p><p>A colorful, stovetop multi-tool that will outlive you with even the most minimal amount of care, the ceramic coated, cast iron dutch oven is the Coach duffle of stovetop cooking - gorgeous, functional and the envy of literally every penny pinching home cook alive today.</p>",
+        "price": {
+          "raw": 250,
+          "formatted": "250.00",
+          "formatted_with_symbol": "$250.00",
+          "formatted_with_code": "250.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+          "asset_id": "ast_8XO3wpWNkAlYAz"
+        },
+        "image": {
+          "id": "ast_8XO3wpWNkAlYAz",
+          "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+          "description": null,
+          "is_image": true,
+          "filename": "green.jpeg",
+          "file_size": 1309292,
+          "file_extension": "jpeg",
+          "image_dimensions": {
+            "width": 2250,
+            "height": 3000
+          },
+          "meta": [],
+          "created_at": 1617732200,
+          "updated_at": 1617732203
+        }
+      },
+      {
+        "id": "prod_0YnEoqLJNwe7P6",
+        "name": "Kitchen Sink Journal",
+        "sku": null,
+        "permalink": "kitchen-sink-journal-chopchop-shop",
+        "description": "<p>Kitchen Sink Journal, our first publication, documents a year of culinary experiments by the Chop Chop team and some friends of the shop. While it includes 41 detailed recipes, in practice we use it more as a reference on how to tackle a given flavor, texture or ingredient. Hopefully you’ll find it just as useful!</p>",
+        "price": {
+          "raw": 35,
+          "formatted": "35.00",
+          "formatted_with_symbol": "$35.00",
+          "formatted_with_code": "35.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+          "asset_id": "ast_4WJvlKWG9lbYV1"
+        },
+        "image": {
+          "id": "ast_4WJvlKWG9lbYV1",
+          "url": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "Kitchen Sink Journal 1.jpg",
+          "file_size": 602019,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1689
+          },
+          "meta": [],
+          "created_at": 1604439354,
+          "updated_at": 1605918798
+        }
+      }
+    ],
+    "extrafields": []
+  },
+  {
+    "id": "prod_L1vOoZqkMwRa8Z",
+    "created": 1604439307,
+    "updated": 1617733050,
+    "active": true,
+    "permalink": "ceramic-dutch-oven-chopchop-shop",
+    "name": "Ceramic Dutch Oven",
+    "description": "<p></p><p>A colorful, stovetop multi-tool that will outlive you with even the most minimal amount of care, the ceramic coated, cast iron dutch oven is the Coach duffle of stovetop cooking - gorgeous, functional and the envy of literally every penny pinching home cook alive today.</p>",
+    "price": {
+      "raw": 250,
+      "formatted": "250.00",
+      "formatted_with_symbol": "$250.00",
+      "formatted_with_code": "250.00 USD"
+    },
+    "inventory": {
+      "managed": false,
+      "available": 0
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": "Ceramic Dutch Oven | ChopChop",
+      "description": "The ceramic coated, cast iron dutch oven is the Coach duffle of stovetop cooking - gorgeous, functional and the envy of literally every penny pinching home cook alive today."
+    },
+    "thank_you_url": null,
+    "meta": {
+      "attributes": [
+        "cap.svg",
+        "diam.svg",
+        "dishwasher-safe.svg",
+        "high.svg",
+        "made-in-france.svg",
+        "will-outlive-you.svg"
+      ]
+    },
+    "conditionals": {
+      "is_active": true,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_inventory_managed": false,
+      "is_sold_out": false,
+      "has_digital_delivery": false,
+      "has_physical_delivery": true,
+      "has_images": true,
+      "collects_fullname": true,
+      "collects_shipping_address": true,
+      "collects_billing_address": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "is_free": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "inventory_managed": false,
+      "sold_out": false,
+      "free": false
+    },
+    "has": {
+      "digital_delivery": false,
+      "physical_delivery": true,
+      "images": true
+    },
+    "collects": {
+      "fullname": true,
+      "shipping_address": true,
+      "billing_address": true,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/ceramic-dutch-oven-chopchop-shop?checkout=true",
+      "display": "https://checkout.chec.io/ceramic-dutch-oven-chopchop-shop"
+    },
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+      "asset_id": "ast_8XO3wpWNkAlYAz"
+    },
+    "categories": [
+      {
+        "id": "cat_L1vOoZDzWlRa8Z",
+        "slug": "cookware",
+        "name": "Cookware"
+      }
+    ],
+    "image": {
+      "id": "ast_8XO3wpWNkAlYAz",
+      "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+      "description": null,
+      "is_image": true,
+      "filename": "green.jpeg",
+      "file_size": 1309292,
+      "file_extension": "jpeg",
+      "image_dimensions": {
+        "width": 2250,
+        "height": 3000
+      },
+      "meta": [],
+      "created_at": 1617732200,
+      "updated_at": 1617732203
+    },
+    "variant_groups": [
+      {
+        "id": "vgrp_ypbroEyJPo8n4e",
+        "name": "Color",
+        "meta": null,
+        "created": null,
+        "updated": null,
+        "options": [
+          {
+            "id": "optn_ypbroEbNV58n4e",
+            "name": "Yellow",
+            "price": {
+              "raw": 250,
+              "formatted": "250.00",
+              "formatted_with_symbol": "$250.00",
+              "formatted_with_code": "250.00 USD"
+            },
+            "assets": ["ast_Op1YoVaQDwXLv9"],
+            "meta": null,
+            "created": null,
+            "updated": 1617734630,
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_Kvg9l6ZYdl1bB7",
+            "name": "Green",
+            "price": {
+              "raw": 250,
+              "formatted": "250.00",
+              "formatted_with_symbol": "$250.00",
+              "formatted_with_code": "250.00 USD"
+            },
+            "assets": ["ast_8XO3wpWNkAlYAz"],
+            "meta": null,
+            "created": null,
+            "updated": 1617734630,
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          },
+          {
+            "id": "optn_NqKE50aRjldgBL",
+            "name": "Red",
+            "price": {
+              "raw": 250,
+              "formatted": "250.00",
+              "formatted_with_symbol": "$250.00",
+              "formatted_with_code": "250.00 USD"
+            },
+            "assets": ["ast_bO6J5apgj2oEjp"],
+            "meta": null,
+            "created": null,
+            "updated": 1617734630,
+            "quantity": 0,
+            "is": {
+              "quantity_limited": false
+            }
+          }
+        ]
+      }
+    ],
+    "assets": [
+      {
+        "id": "ast_8XO3wpWNkAlYAz",
+        "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "green.jpeg",
+        "file_size": 1309292,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732200,
+        "updated_at": 1617732203
+      },
+      {
+        "id": "ast_bO6J5apgj2oEjp",
+        "url": "https://cdn.chec.io/merchants/19303/assets/JRg33fh4coOLsDWS|red.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "red.jpeg",
+        "file_size": 1538114,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732217,
+        "updated_at": 1617732220
+      },
+      {
+        "id": "ast_8XO3wpWNkAlYAz",
+        "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "green.jpeg",
+        "file_size": 1309292,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732200,
+        "updated_at": 1617732203
+      },
+      {
+        "id": "ast_Op1YoVaQDwXLv9",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-rqWlTD5GwKc-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-rqWlTD5GwKc-unsplash 1.jpg",
+        "file_size": 2320597,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1518
+        },
+        "meta": [],
+        "created_at": 1604439272,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_bO6J5apgj2oEjp",
+        "url": "https://cdn.chec.io/merchants/19303/assets/JRg33fh4coOLsDWS|red.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "red.jpeg",
+        "file_size": 1538114,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732217,
+        "updated_at": 1617732220
+      },
+      {
+        "id": "ast_8XO3wpWNkAlYAz",
+        "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "green.jpeg",
+        "file_size": 1309292,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732200,
+        "updated_at": 1617732203
+      },
+      {
+        "id": "ast_Op1YoVaQDwXLv9",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-rqWlTD5GwKc-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-rqWlTD5GwKc-unsplash 1.jpg",
+        "file_size": 2320597,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1518
+        },
+        "meta": [],
+        "created_at": 1604439272,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_bO6J5apgj2oEjp",
+        "url": "https://cdn.chec.io/merchants/19303/assets/JRg33fh4coOLsDWS|red.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "red.jpeg",
+        "file_size": 1538114,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732217,
+        "updated_at": 1617732220
+      },
+      {
+        "id": "ast_8XO3wpWNkAlYAz",
+        "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "green.jpeg",
+        "file_size": 1309292,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732200,
+        "updated_at": 1617732203
+      },
+      {
+        "id": "ast_Op1YoVaQDwXLv9",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-rqWlTD5GwKc-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-rqWlTD5GwKc-unsplash 1.jpg",
+        "file_size": 2320597,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1518
+        },
+        "meta": [],
+        "created_at": 1604439272,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_bO6J5apgj2oEjp",
+        "url": "https://cdn.chec.io/merchants/19303/assets/JRg33fh4coOLsDWS|red.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "red.jpeg",
+        "file_size": 1538114,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732217,
+        "updated_at": 1617732220
+      },
+      {
+        "id": "ast_8XO3wpWNkAlYAz",
+        "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "green.jpeg",
+        "file_size": 1309292,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732200,
+        "updated_at": 1617732203
+      },
+      {
+        "id": "ast_Op1YoVaQDwXLv9",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-rqWlTD5GwKc-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-rqWlTD5GwKc-unsplash 1.jpg",
+        "file_size": 2320597,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1518
+        },
+        "meta": [],
+        "created_at": 1604439272,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_bO6J5apgj2oEjp",
+        "url": "https://cdn.chec.io/merchants/19303/assets/JRg33fh4coOLsDWS|red.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "red.jpeg",
+        "file_size": 1538114,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732217,
+        "updated_at": 1617732220
+      },
+      {
+        "id": "ast_Op1YoVaQDwXLv9",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-rqWlTD5GwKc-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-rqWlTD5GwKc-unsplash 1.jpg",
+        "file_size": 2320597,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1518
+        },
+        "meta": [],
+        "created_at": 1604439272,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_bO6J5apgj2oEjp",
+        "url": "https://cdn.chec.io/merchants/19303/assets/JRg33fh4coOLsDWS|red.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "red.jpeg",
+        "file_size": 1538114,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732217,
+        "updated_at": 1617732220
+      },
+      {
+        "id": "ast_8XO3wpWNkAlYAz",
+        "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "green.jpeg",
+        "file_size": 1309292,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732200,
+        "updated_at": 1617732203
+      },
+      {
+        "id": "ast_Op1YoVaQDwXLv9",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-rqWlTD5GwKc-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-rqWlTD5GwKc-unsplash 1.jpg",
+        "file_size": 2320597,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1518
+        },
+        "meta": [],
+        "created_at": 1604439272,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_bO6J5apgj2oEjp",
+        "url": "https://cdn.chec.io/merchants/19303/assets/JRg33fh4coOLsDWS|red.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "red.jpeg",
+        "file_size": 1538114,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732217,
+        "updated_at": 1617732220
+      },
+      {
+        "id": "ast_8XO3wpWNkAlYAz",
+        "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "green.jpeg",
+        "file_size": 1309292,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732200,
+        "updated_at": 1617732203
+      },
+      {
+        "id": "ast_Op1YoVaQDwXLv9",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-rqWlTD5GwKc-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-rqWlTD5GwKc-unsplash 1.jpg",
+        "file_size": 2320597,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1518
+        },
+        "meta": [],
+        "created_at": 1604439272,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_Op1YoVaQDwXLv9",
+        "url": "https://cdn.chec.io/merchants/19303/assets/italic-rqWlTD5GwKc-unsplash%201.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "italic-rqWlTD5GwKc-unsplash 1.jpg",
+        "file_size": 2320597,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1518
+        },
+        "meta": [],
+        "created_at": 1604439272,
+        "updated_at": 1605918801
+      },
+      {
+        "id": "ast_8XO3wpWNkAlYAz",
+        "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "green.jpeg",
+        "file_size": 1309292,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732200,
+        "updated_at": 1617732203
+      },
+      {
+        "id": "ast_bO6J5apgj2oEjp",
+        "url": "https://cdn.chec.io/merchants/19303/assets/JRg33fh4coOLsDWS|red.jpeg",
+        "description": null,
+        "is_image": true,
+        "filename": "red.jpeg",
+        "file_size": 1538114,
+        "file_extension": "jpeg",
+        "image_dimensions": {
+          "width": 2250,
+          "height": 3000
+        },
+        "meta": [],
+        "created_at": 1617732217,
+        "updated_at": 1617732220
+      }
+    ],
+    "attributes": [],
+    "related_products": [
+      {
+        "id": "prod_7ZAMo1eDvoNJ4x",
+        "name": "Walnut Cook's Tools",
+        "sku": null,
+        "permalink": "walnut-cooks-tools-chopchop-shop",
+        "description": "<p>Carved by our friends at Mason St. Workshop, these cook’s tools are made to last. We went back and forth for months deliberating on woods, handles and the exact tools to include before landing on the current set of five which includes a spatula, three different spoons and a large ladle.</p>",
+        "price": {
+          "raw": 40,
+          "formatted": "40.00",
+          "formatted_with_symbol": "$40.00",
+          "formatted_with_code": "40.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+          "asset_id": "ast_kpnNwAWX95mXB3"
+        },
+        "image": {
+          "id": "ast_kpnNwAWX95mXB3",
+          "url": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "photo-1594761077961-cadd185540a4%201.jpg",
+          "file_size": 1863212,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1874
+          },
+          "meta": [],
+          "created_at": 1604438887,
+          "updated_at": 1605918804
+        }
+      },
+      {
+        "id": "prod_r2LM5Q8baoZV1g",
+        "name": "Private Cooking Class",
+        "sku": null,
+        "permalink": "private-cooking-class-chopchop-shop",
+        "description": "<p>Learn core skills or advanced techniques in our private cooking classes. Classes run two hours (online or in person at our Brooklyn storefront) and cover a range of recipes, approaches and techniques. Tell us what you want to tackle or learn a classic recipe. Just let us know in the form at checkout.</p>",
+        "price": {
+          "raw": 120,
+          "formatted": "120.00",
+          "formatted_with_symbol": "$120.00",
+          "formatted_with_code": "120.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+          "asset_id": "ast_p6dP5g3zM5n7kA"
+        },
+        "image": {
+          "id": "ast_p6dP5g3zM5n7kA",
+          "url": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "emy-kOtEYRJspm8-unsplash.jpg",
+          "file_size": 2271702,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 5184,
+            "height": 3456
+          },
+          "meta": [],
+          "created_at": 1605912098,
+          "updated_at": 1605916895
+        }
+      },
+      {
+        "id": "prod_NXELwj0Nm53A4p",
+        "name": "Essential Knife Set",
+        "sku": null,
+        "permalink": "essential-knife-set-chopchop-shop",
+        "description": "<p>There are a lot of knife sets out there, a lot of them are fine, but they also have a bunch of stuff you probably don’t need. We put together the essential knife set so you can snag exactly what you need to get cooking, no more no less. If you want a slightly different variation just get in touch and let us know, we’re happy to put something custom together for your needs.</p>",
+        "price": {
+          "raw": 120,
+          "formatted": "120.00",
+          "formatted_with_symbol": "$120.00",
+          "formatted_with_code": "120.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+          "asset_id": "ast_A12JwrELMlPjnk"
+        },
+        "image": {
+          "id": "ast_A12JwrELMlPjnk",
+          "url": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "italic--wPo52T1z-8-unsplash 1.png",
+          "file_size": 1992899,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1665
+          },
+          "meta": [],
+          "created_at": 1604439215,
+          "updated_at": 1605918801
+        }
+      },
+      {
+        "id": "prod_0YnEoqLJNwe7P6",
+        "name": "Kitchen Sink Journal",
+        "sku": null,
+        "permalink": "kitchen-sink-journal-chopchop-shop",
+        "description": "<p>Kitchen Sink Journal, our first publication, documents a year of culinary experiments by the Chop Chop team and some friends of the shop. While it includes 41 detailed recipes, in practice we use it more as a reference on how to tackle a given flavor, texture or ingredient. Hopefully you’ll find it just as useful!</p>",
+        "price": {
+          "raw": 35,
+          "formatted": "35.00",
+          "formatted_with_symbol": "$35.00",
+          "formatted_with_code": "35.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+          "asset_id": "ast_4WJvlKWG9lbYV1"
+        },
+        "image": {
+          "id": "ast_4WJvlKWG9lbYV1",
+          "url": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "Kitchen Sink Journal 1.jpg",
+          "file_size": 602019,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1689
+          },
+          "meta": [],
+          "created_at": 1604439354,
+          "updated_at": 1605918798
+        }
+      }
+    ],
+    "extrafields": []
+  },
+  {
+    "id": "prod_0YnEoqLJNwe7P6",
+    "created": 1604439415,
+    "updated": 1610539806,
+    "active": true,
+    "permalink": "kitchen-sink-journal-chopchop-shop",
+    "name": "Kitchen Sink Journal",
+    "description": "<p>Kitchen Sink Journal, our first publication, documents a year of culinary experiments by the Chop Chop team and some friends of the shop. While it includes 41 detailed recipes, in practice we use it more as a reference on how to tackle a given flavor, texture or ingredient. Hopefully you’ll find it just as useful!</p>",
+    "price": {
+      "raw": 35,
+      "formatted": "35.00",
+      "formatted_with_symbol": "$35.00",
+      "formatted_with_code": "35.00 USD"
+    },
+    "inventory": {
+      "managed": false,
+      "available": 0
+    },
+    "sku": null,
+    "sort_order": 0,
+    "seo": {
+      "title": "Kitchen Sink Journal | ChopChop",
+      "description": "Our first publication documents a year of culinary experiments by the Chop Chop team and some friends of the shop. While it includes 41 detailed recipes, in practice we use it more as a reference on how to tackle a given flavor, texture or ingredient."
+    },
+    "thank_you_url": null,
+    "meta": {
+      "attributes": [
+        "41-delicious-recipes.svg",
+        "77-pages.svg",
+        "free-book-mark.svg",
+        "glossy-paper.svg",
+        "hand-bound.svg",
+        "pdf-included.svg"
+      ]
+    },
+    "conditionals": {
+      "is_active": true,
+      "is_tax_exempt": false,
+      "is_pay_what_you_want": false,
+      "is_inventory_managed": false,
+      "is_sold_out": false,
+      "has_digital_delivery": true,
+      "has_physical_delivery": true,
+      "has_images": true,
+      "collects_fullname": true,
+      "collects_shipping_address": true,
+      "collects_billing_address": true,
+      "has_video": false,
+      "has_rich_embed": false,
+      "is_free": false,
+      "collects_extrafields": false
+    },
+    "is": {
+      "active": true,
+      "tax_exempt": false,
+      "pay_what_you_want": false,
+      "inventory_managed": false,
+      "sold_out": false,
+      "free": false
+    },
+    "has": {
+      "digital_delivery": true,
+      "physical_delivery": true,
+      "images": true
+    },
+    "collects": {
+      "fullname": true,
+      "shipping_address": true,
+      "billing_address": true,
+      "extrafields": false
+    },
+    "checkout_url": {
+      "checkout": "https://checkout.chec.io/kitchen-sink-journal-chopchop-shop?checkout=true",
+      "display": "https://checkout.chec.io/kitchen-sink-journal-chopchop-shop"
+    },
+    "media": {
+      "type": "image",
+      "source": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+      "asset_id": "ast_4WJvlKWG9lbYV1"
+    },
+    "categories": [
+      {
+        "id": "cat_kd6Ll2Q3z5V2mj",
+        "slug": "journal",
+        "name": "Journal"
+      }
+    ],
+    "image": {
+      "id": "ast_4WJvlKWG9lbYV1",
+      "url": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+      "description": null,
+      "is_image": true,
+      "filename": "Kitchen Sink Journal 1.jpg",
+      "file_size": 602019,
+      "file_extension": "jpg",
+      "image_dimensions": {
+        "width": 1250,
+        "height": 1689
+      },
+      "meta": [],
+      "created_at": 1604439354,
+      "updated_at": 1605918798
+    },
+    "variant_groups": [],
+    "assets": [
+      {
+        "id": "ast_4WJvlKWG9lbYV1",
+        "url": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "Kitchen Sink Journal 1.jpg",
+        "file_size": 602019,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1689
+        },
+        "meta": [],
+        "created_at": 1604439354,
+        "updated_at": 1605918798
+      },
+      {
+        "id": "ast_4WJvlKWG9lbYV1",
+        "url": "https://cdn.chec.io/merchants/19303/assets/9yI6YD9osPkZqmXC_Kitchen-Sink-Journal-1.jpg",
+        "description": null,
+        "is_image": true,
+        "filename": "Kitchen Sink Journal 1.jpg",
+        "file_size": 602019,
+        "file_extension": "jpg",
+        "image_dimensions": {
+          "width": 1250,
+          "height": 1689
+        },
+        "meta": [],
+        "created_at": 1604439354,
+        "updated_at": 1605918798
+      }
+    ],
+    "attributes": [],
+    "related_products": [
+      {
+        "id": "prod_7ZAMo1eDvoNJ4x",
+        "name": "Walnut Cook's Tools",
+        "sku": null,
+        "permalink": "walnut-cooks-tools-chopchop-shop",
+        "description": "<p>Carved by our friends at Mason St. Workshop, these cook’s tools are made to last. We went back and forth for months deliberating on woods, handles and the exact tools to include before landing on the current set of five which includes a spatula, three different spoons and a large ladle.</p>",
+        "price": {
+          "raw": 40,
+          "formatted": "40.00",
+          "formatted_with_symbol": "$40.00",
+          "formatted_with_code": "40.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+          "asset_id": "ast_kpnNwAWX95mXB3"
+        },
+        "image": {
+          "id": "ast_kpnNwAWX95mXB3",
+          "url": "https://cdn.chec.io/merchants/19303/assets/photo-1594761077961-cadd185540a4%201.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "photo-1594761077961-cadd185540a4%201.jpg",
+          "file_size": 1863212,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1874
+          },
+          "meta": [],
+          "created_at": 1604438887,
+          "updated_at": 1605918804
+        }
+      },
+      {
+        "id": "prod_r2LM5Q8baoZV1g",
+        "name": "Private Cooking Class",
+        "sku": null,
+        "permalink": "private-cooking-class-chopchop-shop",
+        "description": "<p>Learn core skills or advanced techniques in our private cooking classes. Classes run two hours (online or in person at our Brooklyn storefront) and cover a range of recipes, approaches and techniques. Tell us what you want to tackle or learn a classic recipe. Just let us know in the form at checkout.</p>",
+        "price": {
+          "raw": 120,
+          "formatted": "120.00",
+          "formatted_with_symbol": "$120.00",
+          "formatted_with_code": "120.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+          "asset_id": "ast_p6dP5g3zM5n7kA"
+        },
+        "image": {
+          "id": "ast_p6dP5g3zM5n7kA",
+          "url": "https://cdn.chec.io/merchants/19303/assets/g0Yv6ktg9ngCCk9D|emy-kOtEYRJspm8-unsplash.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "emy-kOtEYRJspm8-unsplash.jpg",
+          "file_size": 2271702,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 5184,
+            "height": 3456
+          },
+          "meta": [],
+          "created_at": 1605912098,
+          "updated_at": 1605916895
+        }
+      },
+      {
+        "id": "prod_NXELwj0Nm53A4p",
+        "name": "Essential Knife Set",
+        "sku": null,
+        "permalink": "essential-knife-set-chopchop-shop",
+        "description": "<p>There are a lot of knife sets out there, a lot of them are fine, but they also have a bunch of stuff you probably don’t need. We put together the essential knife set so you can snag exactly what you need to get cooking, no more no less. If you want a slightly different variation just get in touch and let us know, we’re happy to put something custom together for your needs.</p>",
+        "price": {
+          "raw": 120,
+          "formatted": "120.00",
+          "formatted_with_symbol": "$120.00",
+          "formatted_with_code": "120.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+          "asset_id": "ast_A12JwrELMlPjnk"
+        },
+        "image": {
+          "id": "ast_A12JwrELMlPjnk",
+          "url": "https://cdn.chec.io/merchants/19303/assets/italic--wPo52T1z-8-unsplash%201.jpg",
+          "description": null,
+          "is_image": true,
+          "filename": "italic--wPo52T1z-8-unsplash 1.png",
+          "file_size": 1992899,
+          "file_extension": "jpg",
+          "image_dimensions": {
+            "width": 1250,
+            "height": 1665
+          },
+          "meta": [],
+          "created_at": 1604439215,
+          "updated_at": 1605918801
+        }
+      },
+      {
+        "id": "prod_L1vOoZqkMwRa8Z",
+        "name": "Ceramic Dutch Oven",
+        "sku": null,
+        "permalink": "ceramic-dutch-oven-chopchop-shop",
+        "description": "<p></p><p>A colorful, stovetop multi-tool that will outlive you with even the most minimal amount of care, the ceramic coated, cast iron dutch oven is the Coach duffle of stovetop cooking - gorgeous, functional and the envy of literally every penny pinching home cook alive today.</p>",
+        "price": {
+          "raw": 250,
+          "formatted": "250.00",
+          "formatted_with_symbol": "$250.00",
+          "formatted_with_code": "250.00 USD"
+        },
+        "quantity": 0,
+        "media": {
+          "type": "image",
+          "source": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+          "asset_id": "ast_8XO3wpWNkAlYAz"
+        },
+        "image": {
+          "id": "ast_8XO3wpWNkAlYAz",
+          "url": "https://cdn.chec.io/merchants/19303/assets/u5yMes6gRixQ03da|green.jpeg",
+          "description": null,
+          "is_image": true,
+          "filename": "green.jpeg",
+          "file_size": 1309292,
+          "file_extension": "jpeg",
+          "image_dimensions": {
+            "width": 2250,
+            "height": 3000
+          },
+          "meta": [],
+          "created_at": 1617732200,
+          "updated_at": 1617732203
+        }
+      }
+    ],
+    "extrafields": []
+  }
+]
