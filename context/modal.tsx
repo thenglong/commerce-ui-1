@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useReducer, useContext } from "react";
+import { createContext, useReducer, useContext, useCallback } from "react";
 import { useCycle } from "framer-motion";
 
 const ModalStateContext = createContext<any>({});
@@ -33,11 +33,11 @@ export const ModalProvider = ({ children }: any) => {
     document.body.classList.add("overflow-hidden");
   };
 
-  const closeModal = () => {
+  const closeModal = useCallback(() => {
     toggle(0);
     document.body.classList.remove("overflow-hidden");
     dispatch({ type: "SHOW_CART" });
-  };
+  }, [toggle]);
 
   const showCart = () => dispatch({ type: "SHOW_CART" });
 

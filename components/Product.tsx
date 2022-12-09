@@ -4,7 +4,7 @@ import { makeClassName } from "../lib/utils";
 
 function Product({ media, name, permalink, price, className }: any) {
   const imageClass = makeClassName([
-    "relative rounded-lg hover:rounded-none overflow-hidden w-full transition-all",
+    "relative rounded-lg overflow-hidden w-full transition-all",
     className,
   ]);
 
@@ -15,7 +15,7 @@ function Product({ media, name, permalink, price, className }: any) {
           <Image
             src={media.source}
             alt={Product.name}
-            layout="fill"
+            fill
             sizes="616px, (min-width: 768px): 352px, (min-width: 1024px): 232px, (min-width: 1280px): 288px"
             className="object-cover"
             priority={true}

@@ -61,8 +61,8 @@ function CartItem({
         <Image
           src={media.source}
           alt={name}
-          layout="fill"
-          className="object-cover rounded-lg hover:rounded-none transition-all"
+          fill
+          className="object-cover rounded-lg transition-all"
           loading="eager"
           priority={true}
         />

@@ -22,7 +22,7 @@ function Success({ has }: any) {
               width={384}
               height={126}
               alt="ChopChop doesn't exist!"
-              layout="responsive"
+              fill
             />
           </div>
 

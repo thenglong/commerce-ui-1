@@ -1,5 +1,4 @@
 import { useEffect } from "react";
-import { useRouter } from "next/navigation";
 import { Router } from "next/router";
 import { AnimatePresence, motion } from "framer-motion";
 
@@ -28,7 +27,6 @@ function Modal() {
   const { open, step } = useModalState();
   const { closeModal } = useModalDispatch();
   const { reset: resetCheckout } = useCheckoutDispatch();
-  const router = useRouter();
 
   useEffect(() => {
     Router.events.on("routeChangeStart", closeModal);
@@ -36,7 +34,7 @@ function Modal() {
     return () => {
       Router.events.off("routeChangeStart", closeModal);
     };
-  }, []);
+  }, [closeModal]);
 
   const closeAndResetModal = () => {
     closeModal();

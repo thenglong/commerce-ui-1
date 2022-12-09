@@ -7,9 +7,11 @@ function ProductAttributes({ attributes = [] }) {
         <div
           key={fileName}
           className="w-full h-24 flex items-center justify-center">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={`/product-attributes/${fileName}`}
             className="inline-block"
+            alt=""
           />
         </div>
       ))}
